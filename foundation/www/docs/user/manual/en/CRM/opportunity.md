@@ -25,7 +25,7 @@ You can also go to an “Open” Lead and select “Opportunity” from the **Ma
 An Opportunity can also come from an existing Customer. You can create
 multiple Opportunities against the same Lead. In Opportunity, apart from the
 Communication, you can also add the Items for which the Lead or Contact is
-looking for.
+looking for. You can add comments and also send Email communication directly from opportunity.You can attach documents related to opportunity and you can also assign opportunity to user.
 
 #### Make Supplier Quotation
 In some businesses, users collect the rates from their supplier against the customer requirement and based on the supplier rates they prepare the quotation for the customer. With ERPNext, you can make a supplier quotation from the opportunity itself.
