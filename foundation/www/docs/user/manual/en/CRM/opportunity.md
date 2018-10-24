@@ -2,7 +2,7 @@
 # Opportunity
 
 When you know a Lead is looking for some products or services to buy, you can
-track that as an Opportunity. Also opportunity document helps user to collect the requirement of a customer/lead.
+track that as an Opportunity. Also opportunity document helps user to collect the requirement of a customer/lead. You can assign opportunity to user and also add comments and send Email to customer/lead. You can upload attachment to opportunity.
 
 You can create an Opportunity from:
 
@@ -26,6 +26,13 @@ An Opportunity can also come from an existing Customer. You can create
 multiple Opportunities against the same Lead. In Opportunity, apart from the
 Communication, you can also add the Items for which the Lead or Contact is
 looking for.
+
+> Tip: You can filter opportunities in ERPNext once you Like in ERPNext.
+
+<img class="screenshot" alt="Opportunity" src="{{docs_base_url}}/assets/img/crm/like.gif">
+
+
+
 
 #### Make Supplier Quotation
 In some businesses, users collect the rates from their supplier against the customer requirement and based on the supplier rates they prepare the quotation for the customer. With ERPNext, you can make a supplier quotation from the opportunity itself.
