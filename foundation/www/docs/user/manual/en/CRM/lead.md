@@ -17,11 +17,11 @@ usually work on leads by calling them, building a relationship and sending
 information about their products or services. It is important to track all
 this conversation to enable another person who may have to follow-up on that
 contact. The new person is then able to know the history of that particular
-Lead.
+Lead. You can use ERPNext standard lead form to collect information related to lead and depending on your industry and special requirement you can also add custom fields in lead form. 
 
 ---
 
-Leads are the  entities constituting a first contact. Leads can be created by a system users or by a web-user. When a lead is created minimal info (name,email) is entered and the lead is (default) linked to the active system user, the owner of the lead  A user configurable drop list is used to classify Status of the lead (Open, Replied etc)
+Leads are the  entities constituting a first contact. Leads can be created by a system users or by a web-user. When a lead is created minimal info (name, email) is entered and the lead is (default) linked to the active system user, the owner of the lead  A user configurable drop list is used to classify Status of the lead (Open, Replied etc). A Lead can be assign to user and user can edit or update information in lead form based on their engagement during follow-ups.
 
 To create a Lead, go to:
 
@@ -37,6 +37,10 @@ who you want to work with.
 > **Tip:** ERPNext makes it easy to follow-up on leads by updating the “Next
 Contact” details. This will add a new event in the Calendar for the User who
 has to contact the lead next.
+
+### **Import of Bulk Laed data**
+
+You can import bulk Lead data from spreadsheet files ( .csv ) from the Data Import option available in Menu. This tool will be very helpful to update lands received in bulk.
 
 ### Difference between Lead, Contact and Customer
 
