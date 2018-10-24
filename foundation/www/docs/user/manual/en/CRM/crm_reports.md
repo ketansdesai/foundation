@@ -41,3 +41,10 @@ This report shows the list of customers who has not purchased since long time.
 
 <img alt="Lead Details" class="screenshot"
     src="{{docs_base_url}}/assets/img/crm/report/inactive_customers.png">
+    
+###Campaign Efficiency
+This report will give Campaign efficiency , where you can get camapign wise lead, Opportunit, Quitation, Order count and Order value details with Opportuniy to lead , Quotation to lead and Order count to Quotation percentage analysis.
+
+###Lead Owner Efficiency
+This report will give Lead Owner efficiency , where you can get Lead Owner wise lead, Opportunit, Quitation, Order count and Order value details with Opportuniy to lead , Quotation to lead and Order count to Quotation percentage analysis.
+
